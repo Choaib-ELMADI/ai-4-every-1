@@ -1,0 +1,38 @@
+1. Artificial Intelligence:
+    . Artificial Intelligence (AI) refers to any human-like behavior displayed by a machine or a system.
+
+2. Machine Learning:
+    . Machine Learning is part of Artificial Intelligence.
+    . It's based on the implicit programming and not the explicit one (if statements, for loops, ...).
+
+3. Deep Learning:
+    . Deep Learning is a subset of Machine Learning inspired by the human brain.
+    . The backbone of Deep Learning is the concept of Neural Networks.
+    . A neural network consists of several layers:
+        * Input Layer
+        .
+        |
+        * Hidden Layers (as many as you need/want)
+        |
+        .
+        * Output Layer
+    . Each layer consists of several neurons.
+    . Each neuron is connected to the neurons in the next layer.
+    . Each connection between two neurons has a weight. While training, it changes these weights (like knobs) to get better results.
+
+4. Discriminative AI:
+    . A subset of Deep Learning that learns from the relationships between labels of data points.
+    
+5. Generative AI:
+    . A subset of Deep Learning that generates a totally new data (text, image, video, audio, ...).
+    . Some generative AI models:
+        * Generative Adversarial Networks (GAN):
+            => It consists of two neural networks competing against each other.
+            => One generates new content and the other evaluates how good it is.
+        * Variational AutoEncoder (VAE):
+            => They generate new instances similar to the input data.
+        * Diffusion Models:
+        * Recurrent Neural Networks (RNN):
+            => Sequential computing.
+        * Transformers (Updated RNNs):
+            => Parallel computing.

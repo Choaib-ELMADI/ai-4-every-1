@@ -1,0 +1,8 @@
+1/ Training Data: (images, text, videos, audio, ...)
+2/ Inference: Input =====> AI Model =====> Output
+3/ Tokens: Before feeding an input to an AI model, we need to tokenize each part of input and then feed the token IDs.
+4/ Temprature: A parameter to control how creative a model is.
+5/ Guidance Scale: A parameter to control how much to follow the input prompt.
+6/ Embeddings: 
+7/ Memory:
+8/ Fine-tuning:
