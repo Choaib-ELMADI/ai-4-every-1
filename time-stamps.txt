@@ -1,1 +1,89 @@
-1) Introduction: 00:00:00 --> 00:42:48
+00:00:00 C1  -  Introduction - Intro
+00:04:54 C1  -  Introduction - Getting Started
+00:13:17 C1  -  Introduction - Intro To AI
+00:23:34 C1  -  Introduction - Common Terms
+
+00:42:45 C2  -  Prompt Engineering - Intro
+00:46:53 C2  -  Prompt Engineering - Persona
+00:50:26 C2  -  Prompt Engineering - Details
+00:53:09 C2  -  Prompt Engineering - Steps
+00:59:50 C2  -  Prompt Engineering - References
+01:00:56 C2  -  Prompt Engineering - Delimiters
+01:03:22 C2  -  Prompt Engineering - Output Format
+01:05:36 C2  -  Prompt Engineering - Where to find more?
+
+01:09:03 C3  -  CPU VS GPU - Intro
+01:16:24 C3  -  CPU VS GPU - Performance
+01:18:44 C3  -  CPU VS GPU - Compute Capability
+
+01:20:01 C4  -  Online VS Offline - Intro
+01:22:14 C4  -  Online VS Offline - Pros and Cons
+
+01:25:40 C5  -  Installations - Intro
+01:28:06 C5  -  Installations - Python and PyCharm
+01:34:53 C5  -  Installations - Essentials
+01:39:24 C5  -  Installations - Nvidia GPU
+
+01:46:48 C6  -  No Code - Online - Intro
+01:54:10 C6  -  No Code - Online - Setup
+01:56:09 C6  -  No Code - Online - Text - Sick Leave
+02:05:12 C6  -  No Code - Online - Text - Youtube Summary
+02:15:20 C6  -  No Code - Online - Text - Graph Explanation
+02:23:15 C6  -  No Code - Online - Text - Docs
+02:32:39 C6  -  No Code - Online - Images
+02:42:03 C6  -  No Code - Online - Automation
+02:57:41 C6  -  No Code - Offline - Text - Installation
+03:02:07 C6  -  No Code - Offline - Text - Quantization
+03:04:20 C6  -  No Code - Offline - Text - Running Inference 
+03:11:00 C6  -  No Code - Offline - Images 
+03:25:40 C6  -  No Code - Offline - DeepFake - Installation
+03:30:18 C6  -  No Code - Offline - DeepFake - CPU
+03:34:07 C6  -  No Code - Offline - DeepFake - GPU
+
+03:40:51 C7  -  GUI - Introduction
+03:44:58 C7  -  GUI - First Run 
+03:49:10 C7  -  GUI - Basic Elements
+
+04:04:59 C8  -  Code - Installations 
+04:15:48 C8  -  Code - Online - Text Basic 
+04:32:48 C8  -  Code - Online - Image Basic
+04:40:12 C8  -  Code - Online - Audio Basic
+04:45:13 C8  -  Code - Online - Online Module - Audio
+04:57:01 C8  -  Code - Online - Online Module - Images
+05:02:48 C8  -  Code - Online - Online Module - Text
+05:17:56 C8  -  Code - Offline - Huggingface Intro 
+05:22:20 C8  -  Code - Offline - Pipelines
+05:24:34 C8  -  Code - Offline - Text Classification
+05:37:15 C8  -  Code - Offline - Text Basic 
+05:49:51 C8  -  Code - Offline - Faster Text Basic 
+05:57:55 C8  -  Code - Offline - Image Basic
+06:08:02 C8  -  Code - Offline - Audio Basic
+06:13:01 C8  -  Code - Offline - Offline Module - Audio 
+06:27:58 C8  -  Code - Offline - Offline Module - Image 
+07:06:52 C8  -  Code - Offline - Offline Module - Faster Text 
+07:16:18 C8  -  Code - Offline - Offline Module - Text
+
+07:32:12 C9  -  Apps - Using Modules
+07:34:44 C9  -  Apps - Recipe Generator 
+07:53:39 C9  -  Apps - AI Meal Planner 
+08:17:26 C9  -  Apps - Coloring Page
+08:37:51 C9  -  Apps - Sticker Generator 
+08:46:27 C9  -  Apps - Logo Generator 
+08:55:07 C9  -  Apps - Photo Semantics 
+09:13:14 C9  -  Apps - Caption Generator 
+09:24:42 C9  -  Apps - Google Photos Replica 
+09:55:29 C9  -  Apps - PDF Sorter 
+10:17:45 C9  -  Apps - Background Remover 
+10:29:48 C9  -  Apps - Background Blur
+10:43:48 C9  -  Apps - Cloth Changer
+11:01:11 C9  -  Apps - Adult Content 
+11:14:42 C9  -  Apps - Storybook Generator 
+11:48:46 C9  -  Apps - YouTube to Blog
+
+12:13:40 C10  -  Training - Installation
+12:18:48 C10  -  Training - Training
+12:34:44 C10  -  Training - Inference
+
+12:44:56 C11  -  Deployment - Intro
+12:46:29 C11  -  Deployment - Comparison
+12:54:21 C11  -  Deployment - Outro
