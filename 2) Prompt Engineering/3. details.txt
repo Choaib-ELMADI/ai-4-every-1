@@ -1,0 +1,6 @@
+1. Prompt Details:
+    >> What is the weather like?
+
+    >> What is the current weather forecast in "Demnate",
+        for the next "three days",
+        include "temperature ranges", "rain chances", ...

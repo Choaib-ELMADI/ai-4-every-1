@@ -1,0 +1,5 @@
+1. Prompt:
+    . The prompt is the input we give to an AI model.
+
+2. Prompt Engineering:
+    . How to 'efficiently' talk to an 'AI' model.

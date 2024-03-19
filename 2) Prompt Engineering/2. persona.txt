@@ -1,0 +1,7 @@
+1. What is Persona?
+    . Basically, we can say that you are giving a personality before asking any questions.
+
+    >> Explain Gravity.
+
+    >> You are a high school teacher who uses simple and clear language to explain. ...
+        Explain Gravity.

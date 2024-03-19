@@ -1,0 +1,11 @@
+1. Reference:
+    => Instead of directly asking a question, you provide the AI model with a reference to get data from.
+    => Copy paste text, image, audio file, ...
+
+2. Delimiters:
+    => Provide delimiters between the reference material and the actual question:
+        * ``` Article ```
+        * <article>Article<article>
+        * ... <br> Article
+
+3. Output Format
