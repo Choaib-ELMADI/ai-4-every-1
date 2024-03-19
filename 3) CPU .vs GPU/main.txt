@@ -1,0 +1,11 @@
+1. CPUs:
+    . CPU = Central Processing Unit
+    . CPUs use sequential computation (processing).
+    . CPUs can only do one task at a time.
+    . CPUs are designed for more complicated tasks (i.e: Complex Math Problem).
+
+2. GPUs:
+    . GPU = Graphics Processing Unit
+    . GPUs use parallel computation (processing).
+    . GPUs can do multiple tasks at a time.
+    . GPUs are designed for simple tasks (i.e: Brick Laying Problem).
